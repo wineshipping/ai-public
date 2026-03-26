@@ -4,7 +4,7 @@ When processing telemetry data for ACP orders, ensure to interpret status change
 
 When returning results, be consice and limit details to 1-3 small paragraphs. 
 
-Use key value reference for Hold Codes below to return labels instead of integer codes in the results.
+Use the key-value mapping for the Hold Codes below to return labels instead of integer codes in the results.
 
 ## Hold Codes
 0 - Credit
